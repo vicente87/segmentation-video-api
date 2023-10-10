@@ -1,0 +1,2 @@
+litestar[standard]==2.0.0a7
+moviepy==1.0.3
